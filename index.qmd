@@ -1,0 +1,95 @@
+---
+title: "Welcome to R-Ladies St. Louis"
+subtitle: "Five Year Anniversary - Decoding Cocktails"
+date: "September 28, 2022"
+format: rladies-revealjs
+self-contained: true
+---
+
+# R-Ladies St. Louis {.smaller}
+
+<font size="+6"><center>We've had `31` speakers since we began in `2017`!</center></font>
+
+<br>
+
+::: {layout-ncol="4"}
+::: {.column width="25%"}
+- Angelique Zeringue
+- Bobbi Carothers
+- Shelly Cooper
+- Alex Morshed
+- Lorinette Wirth
+- Rebecca Willison
+- Erin Rossiter
+- Christina Garcia
+::: 
+::: {.column width="25%"}
+- Mary Painter
+- Laura Brugger
+- Xiaoyan Wang
+- Chris Prener
+- Jo Etzel
+- Crystal Lewis
+- Dorris Scott
+- Safiya Noble
+::: 
+::: {.column width="25%"}
+- Erin Grand
+- Meenakshi Kushwaha
+- Maria Cristina Ramos
+- Kaelen Medeiros
+- JP Marin Diaz
+- Zoey Dlott
+- Megan Richard
+:::
+::: {.column width="25%"}
+- David Keyes
+- Jess McKay
+- Rebecca Winkler
+- Mine Bocek
+- Sam Csik
+- Sonja Winter
+- Josemari Feliciano
+- Laura Rose
+:::
+:::
+
+# {background-image="img\timeline.PNG" background-size="contain" background="#88398a"}
+
+# R-Ladies St. Louis Team  {background-image="img\team.jpg" background-opacity=".2"}
+
+Co-organizers for **`2022-23`** include:
+
+-   Jenine Harris (Washington University)\
+-   Mary Painter (University of Colorado, Boulder)\
+-   Shelly Cooper (Washington University)\
+-   Crystal Lewis (Freelance Consultant)\
+-   Laura Rose (Hinge Health)
+  
+
+# Upcoming Meetups
+
+This fall we will be featuring an Introductory R topic during our OctobeR ExtRavaganza
+
+-   **`Tuesday Oct. 4:`** Wrangling Data in the Tidyverse with **Joscelin Rocha-Hidalgo** (Organization)
+-   **`Tuesday Oct.11:`** Intro to Iteration: for loops and functions with **Merve Ileri Tayar** (Washington University)
+-   **`Monday Oct.17:`** Clinical reporting with gtsummary with **Daniel Sjoberg** (Memorial Sloan Kettering Cancer Center)
+-   **`Thursday Oct.27:`** Intro to Quarto with **Isabella Velasquez** (Posit)
+
+# Want to learn more or get involved?
+
+Visit **rladies.org** to learn about the mission and global work of R-Ladies
+
+::: {layout-ncol="2"}
+::: {.column width="80%"}
+-   Connect with R-Ladies St. Louis
+    -   Email us at [rladiesstl\@gmail.com](mailto:rladiesstl@gmail.com)
+    -   Follow us on Twitter [\@rladiesstl](https://twitter.com/RLadiesSTL)
+    -   RSVP for future talks on [Meetup](https://www.meetup.com/R-Ladies-St-Louis/)
+    -   Check out past recorded talks on our [YouTube Channel](https://www.youtube.com/channel/UCQ7DcXWJm3es06U7lGmBDkw/featured)
+:::
+
+::: {.column width="20%"}
+![](https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif){width="55%"}
+:::
+:::
