@@ -71,7 +71,7 @@ Co-organizers for **`2022-23`** include:
 
 This fall we will be featuring an Introductory R topic during our OctobeR ExtRavaganza
 
--   **`Tuesday Oct. 4:`** Wrangling Data in the Tidyverse with **Joscelin Rocha-Hidalgo** (Organization)
+-   **`Tuesday Oct. 4:`** Wrangling Data in the Tidyverse with **Joscelin Rocha-Hidalgo** (Penn State)
 -   **`Tuesday Oct.11:`** Intro to Iteration: for loops and functions with **Merve Ileri Tayar** (Washington University)
 -   **`Monday Oct.17:`** Clinical reporting with gtsummary with **Daniel Sjoberg** (Memorial Sloan Kettering Cancer Center)
 -   **`Thursday Oct.27:`** Intro to Quarto with **Isabella Velasquez** (Posit)
